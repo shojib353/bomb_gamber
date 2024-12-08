@@ -1,6 +1,7 @@
 # bomb_gamber
 
 A new Flutter project.
+https://github.com/shojib353/bomb_gamber/issues/1#issue-2725474375
 
 ## Getting Started
 
